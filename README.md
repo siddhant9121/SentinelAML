@@ -130,4 +130,4 @@ Severity scoring aligned to:
 * **FATF Recommendations** — international AML/CFT standards
 * **PMLA 2002** — Prevention of Money Laundering Act (India)
 * **RBI AML Guidelines** — Reserve Bank of India compliance framework
- 
+
