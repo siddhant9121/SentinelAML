@@ -1,0 +1,5 @@
+SUSPICIOUS TRANSACTION REPORT
+Severity
+Low       3526
+Medium    2581
+High       107Total Flagged Transactions: 6214
