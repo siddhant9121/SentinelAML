@@ -125,8 +125,15 @@ Surfaces only HIGH and MEDIUM priority alerts for immediate compliance review.
 * Real-time alert system surfacing only highest-risk transactions
 
 ---
+## 8. Dashboard Preview
+![AML/CFT Dashboard](screenshots/dashboard.png)
+The interactive dashboard (`dashboard.py`) visualizes:
+* Severity distribution across flagged transactions
+* Top 10 highest-risk source banks
+* Payment method risk breakdown
+* Flagged transaction amounts over time for this give me a command for terminal otherwise it will throw an error again bro
 
-## 8. Model Performance
+## 9. Model Performance
 
 | Metric | Legitimate (0) | Laundering (1) |
 |--------|---------------|----------------|
@@ -143,7 +150,7 @@ Surfaces only HIGH and MEDIUM priority alerts for immediate compliance review.
 
 ---
 
-## 9. AML Features Engineered
+## 10. AML Features Engineered
 
 | Feature | Description | FATF Typology |
 |---------|-------------|---------------|
@@ -153,14 +160,14 @@ Surfaces only HIGH and MEDIUM priority alerts for immediate compliance review.
 
 ---
 
-## 10. Dataset
+## 11. Dataset
 IBM Synthetic AML Dataset — [Kaggle](https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml)
 
 Synthetic financial transaction data modelling the full AML cycle: Placement → Layering → Integration. Contains labeled laundering and legitimate transactions across multiple banks, currencies, and payment formats.
 
 ---
 
-## 11. Compliance Framework
+## 12. Compliance Framework
 Severity scoring aligned to:
 * **FATF Recommendations** — international AML/CFT standards
 * **PMLA 2002** — Prevention of Money Laundering Act (India)
