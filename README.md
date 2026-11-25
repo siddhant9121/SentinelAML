@@ -131,7 +131,6 @@ The interactive dashboard (`dashboard.py`) visualizes:
 * Severity distribution across flagged transactions
 * Top 10 highest-risk source banks
 * Payment method risk breakdown
-* Flagged transaction amounts over time for this give me a command for terminal otherwise it will throw an error again bro
 
 ## 9. Model Performance
 
